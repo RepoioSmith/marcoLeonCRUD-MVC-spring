@@ -1,5 +1,4 @@
-﻿# marcoLeonCRUD-MVC-spring
-## Hecho por Marco Leon y Paolo Duenas
+﻿# marcoLeonCRUD-MVC-spring hecho por Marco Leon y Paolo Duenas
 
 
 # Marco:
