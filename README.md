@@ -10,8 +10,8 @@ Marco:
 |!["Diagrama Problema 3"](/Screenshots/Marco/deleteLibro.jpg)
 
 Paolo:
-|!["Diagrama Problema 3"](/Screenshots/Paolo/getAll.jpg)
-|!["Diagrama Problema 3"](/Screenshots/Paolo/createLibro.jpg)
-|!["Diagrama Problema 3"](/Screenshots/Paolo/getLibroById.jpg)
-|!["Diagrama Problema 3"](/Screenshots/Paolo/updateLibro.jpg)
-|!["Diagrama Problema 3"](/Screenshots/Paolo/deleteLibro.jpg)
+|!["Diagrama Problema 3"](/Screenshots/Paolo/getAll.png)
+|!["Diagrama Problema 3"](/Screenshots/Paolo/createLibro.png)
+|!["Diagrama Problema 3"](/Screenshots/Paolo/getLibroById.png)
+|!["Diagrama Problema 3"](/Screenshots/Paolo/updateLibro.png)
+|!["Diagrama Problema 3"](/Screenshots/Paolo/deleteLibro.png)
