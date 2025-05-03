@@ -11,8 +11,8 @@
 <br>
 
 # Paolo:
-|!["Diagrama Problema 3"](/Screenshots/Paolo/getAll.png)<br>
-|!["Diagrama Problema 3"](/Screenshots/Paolo/createLibro.png)<br>
-|!["Diagrama Problema 3"](/Screenshots/Paolo/getLibroById.png)<br>
-|!["Diagrama Problema 3"](/Screenshots/Paolo/updateLibro.png)<br>
-|!["Diagrama Problema 3"](/Screenshots/Paolo/deleteLibro.png)<br>
+|!["getAll"](/Screenshots/Paolo/getAll.png)<br>
+|!["createLibro"](/Screenshots/Paolo/createLibro.png)<br>
+|!["getLibroById"](/Screenshots/Paolo/getLibroById.png)<br>
+|!["updateLibro"](/Screenshots/Paolo/updateLibro.png)<br>
+|!["deleteLibro"](/Screenshots/Paolo/deleteLibro.png)<br>
